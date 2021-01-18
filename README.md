@@ -1,4 +1,4 @@
-# Ejercicio para el Bootcamp F5
+# Ejercicio para el Bootcamp ![](images/factoriaF5.png)
 
 ## Instrucciones de Implementación
 
