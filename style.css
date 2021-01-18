@@ -3,25 +3,35 @@
 }
 
 body {
-
+  background: blue;
 }
 
 .empty {
-
+  display: inline-block;
+  height: 160px;
+  width: 160px;
+  margin: 10px;
+  border: 2px;
+  background-color: white;
 }
 
 .fill {
-
+  background: rgb(161, 189, 6);
+  position: relative;
   width: 150px;
-
+  height: 150px;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
 }
 
 .hold {
-  border: ;
+  border: solid #ccc 4px;
 }
 
 .hovered {
-  : dashed;
+  border-style: dashed;
+  background: #f4f4f4;
 }
 
 @media (max-width: 800px) {
