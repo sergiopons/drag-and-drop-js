@@ -26,10 +26,13 @@ JS
 
  - Validar paso a paso hacer uso de console.log() y la herramienta de desarrollador - 
 
-en este caso es importante utilizar los addEventListener para cada clases
+- En este caso es importante utilizar los addEventListener para cada clases
 
-Utilizar el setTimeOut para el asicronismo
+- Utilizar el setTimeOut para el asicronismo
 
-Importante preventDefault en los eventos
+- Importante preventDefault en los eventos
 
 ### GitHub Pages Link
+
+
+### DEMO
