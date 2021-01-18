@@ -1,6 +1,8 @@
-Instrucciones de Implementación
+# Ejercicio para el Bootcamp F5
 
-Bienvenidos al reto Drag N Drop, para cumplirlo deberán seguir lo siguiente:
+## Instrucciones de Implementación
+
+### Bienvenidos al reto Drag N Drop, para cumplirlo deberán seguir lo siguiente:
 
 1. Ver el video de explicación de reto.
 
@@ -13,7 +15,7 @@ Bienvenidos al reto Drag N Drop, para cumplirlo deberán seguir lo siguiente:
 Resultado: El reto debe ser igual al que visualizan en el video (pueden cambiar colores e imagenes), deben crear un buen .body para que sea como el del video.
 
 
-¡HINTS!
+### ¡HINTS!
 
 CSS
 
@@ -29,3 +31,5 @@ en este caso es importante utilizar los addEventListener para cada clases
 Utilizar el setTimeOut para el asicronismo
 
 Importante preventDefault en los eventos
+
+### GitHub Pages Link
