@@ -1,9 +1,5 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
-  background: blue;
+  background: rgb(36, 36, 129);
 }
 
 .empty {
@@ -11,7 +7,7 @@ body {
   height: 160px;
   width: 160px;
   margin: 10px;
-  border: 2px;
+  border: 2px salmon dotted;
   background-color: white;
 }
 
@@ -22,7 +18,7 @@ body {
   height: 150px;
   top: 5px;
   left: 5px;
-  cursor: pointer;
+  cursor: grab;
 }
 
 .hold {
@@ -34,5 +30,8 @@ body {
   background: #f4f4f4;
 }
 
-@media (max-width: 800px) {
+.invisible {
+  display: none;
 }
+
+@media (max-width: 800px) {}
